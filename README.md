@@ -26,32 +26,3 @@
 <br>
 ㅤ* (I kinda don't have much on my GitHub page yet lol)
 </p>
-
-# Stuff I know / work with
-
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://haxeflixel.com/images/haxeflixel.svg" alt="icon" width="65" height="65" />
-      <br>Haxeflixel
-    </td>
-    <td align="center" width="96">
-        <img src="https://haxe.org/img/haxe-logo.svg" alt="icon" width="65" height="65" />
-      <br>Haxe
-    </td>
-    <td align="center" width="96">
-        <img src="https://avatars.githubusercontent.com/u/117059284?s=60&v=4" alt="icon" width="65" height="65" />
-      <br>Funkin'<br>"V-Slice"
-    </td>
-    <td align="center" width="96">
-        <img src="https://external-content.duckduckgo.com/ip3/codename-engine.com.ico" alt="icon" width="65" height="65" />
-      <br>Codename Engine
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
- </tr>
-</table>
-
