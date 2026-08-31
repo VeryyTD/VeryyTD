@@ -28,5 +28,5 @@
 </p>
 
 <br>My current projects:
-<br>-[FNF2 MIX] BF2 Playable Character
-<br>-Accurate Deltarune X FNF Fan-Charts Collection
+<br>- [FNF2 MIX] BF2 Playable Character
+<br>- Accurate Deltarune X FNF Fan-Charts Collection
