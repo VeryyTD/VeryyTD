@@ -26,3 +26,7 @@
 <br>
 ㅤ* (I kinda don't have much on my GitHub page yet lol)
 </p>
+
+<br>My current projects:
+<br>-[FNF2 MIX] BF2 Playable Character
+<br>-Accurate Deltarune X FNF Fan-Charts Collection
