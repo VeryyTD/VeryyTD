@@ -5,8 +5,9 @@
 <p></p>
 <p align="justify">
 👋. I am <img src="https://images.gamebanana.com/img/upic/696279e312b0b.png" alt="VeryyTD" title="VeryyTD"/>
- * Currently a student studying software development at a technical-college.
- * But mostly code fnf mods as a hobby in my free time.
+<br> * Currently a student studying software development at a technical-college.
+<br> * But mostly code fnf mods as a hobby in my free time.
+<br>
 
 <br>My current projects:
 <br>- [(FNF2 MIX) BF2 Playable Character](https://gamebanana.com/mods/643431)
