@@ -21,12 +21,13 @@
 </div>
 <p></p>
 <p align="justify">
-👋. I am VeryyTD, mostly just a teenager coding FNF Mods for fun as right now.
+👋. I am VeryyTD, currently a student studying software development at technical-college.
+
 
 <br>
-ㅤ* (I kinda don't have much on my GitHub page yet lol)
+ㅤ* (Code fnf mods as a hobby in my free time)
 </p>
 
 <br>My current projects:
-<br>- [FNF2 MIX] BF2 Playable Character
-<br>- Accurate Deltarune X FNF Fan-Charts Collection
+<br>- [(FNF2 MIX) BF2 Playable Character](https://gamebanana.com/mods/643431)
+<br>- [Accurate Deltarune X FNF Fan-Charts Collection](https://gamebanana.com/wips/104013)
