@@ -1,6 +1,6 @@
 <img src="https://deltarune.wiki/images/Green_overworld_wave.gif?cb=4zsczc&h=thumb.php&f=Green_overworld_wave.gif" alt="👋" title="👋"  align="left"/>
 <div align="center">
-    <img src="https://images.gamebanana.com/img/upic/696279e312b0b.png" alt="VeryyTD" title="VeryyTD"/>
+    <img src="https://images.gamebanana.com/img/upic/696279e312b0b.png" alt="VeryyTD" title="VeryyTD"/>'s Socials
 </div>
 
 <div align="justify">
